@@ -9,8 +9,6 @@
 
 ---
 
-# Demo :movie_camera:
-
 ## View live preview [here](https://abusaid.netlify.app/).
 
 ---
